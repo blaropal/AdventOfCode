@@ -21,6 +21,4 @@ const lines = getInputLines();
 const oxygenGeneratorRating = parseInt(getBitLineByType(lines, 0, "MAJORITY"), 2);
 const co2ScrubberRating = parseInt(getBitLineByType(lines, 0, "MINORITY"), 2);
 
-const result = 
-
 console.log("Solution to 3.2", oxygenGeneratorRating * co2ScrubberRating);
