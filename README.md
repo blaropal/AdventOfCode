@@ -9,5 +9,5 @@ To run a puzzle solving program run either
 from within the specific puzzle folder.
 
 ## Puzzle inputs
-All of the *input.txt* files are populated with the inputs that I received from the puzzles.  
-If you want to run these programs against your given input to the puzzles just change the contents of the *input.txt* file in the specific puzzle folder.
+All of the *input.txt* files are populated with the inputs that I received for the puzzles.  
+If you want to run these programs against your given input for a specific puzzle just change the contents of the *input.txt* file in the puzzles folder.
