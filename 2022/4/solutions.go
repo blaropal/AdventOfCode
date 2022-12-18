@@ -77,6 +77,6 @@ func main() {
 		}
 	}
 
-	fmt.Printf("Solution to 3.1: %d\n", containedCount)
-	fmt.Printf("Solution to 3.2: %d\n", overlapCount)
+	fmt.Printf("Solution to 4.1: %d\n", containedCount)
+	fmt.Printf("Solution to 4.2: %d\n", overlapCount)
 }
